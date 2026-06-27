@@ -1,4 +1,3 @@
-# Arduino-OLED-HeartRate-Monitor
 #  Arduino-Based MAX30102 Heart Rate (BPM) Monitor with OLED Display Integration
 
 This project is an embedded system application that utilizes the **MAX30102** photoplethysmography (PPG) sensor to measure real-time heart rate (BPM) from a finger. The data is displayed with a dynamic animation on a **128x32 OLED (I2C)** screen, providing audio feedback via a **Buzzer** every time a heart pulse is detected.
